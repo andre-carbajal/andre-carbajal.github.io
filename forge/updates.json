@@ -1,0 +1,7 @@
+{
+   "homepage":"https://anvian-page.netlify.app/forge/updates.json",
+   "promos":{
+    "1.18.2-latest":"1.1.4",
+    "1.18.2-recommended": "1.1.4"
+   }
+}
