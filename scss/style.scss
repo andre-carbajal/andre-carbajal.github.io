@@ -35,10 +35,20 @@ body{
     text-align: left;
 }
 #nick{
-    opacity: 75%;
+    opacity: 0.5;
+    margin: 0 0 5px 0;
 }
-#location{
-    font-size: 15px;
+.contenido{
+    border: solid 1px $color;
+    display: inline-block;
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+    width: 180px;
+    height: 40px;
+    a{
+        text-decoration: none;
+        color: $color;
+    }
 }
 .about, .links{
     text-align: center;
@@ -75,6 +85,11 @@ footer{
         text-align: center;
         margin-top: 5%;
     }
+    .contenido{
+        button {
+            border: none;
+        }
+    }
     .btn{
         width: 500px;
         height: auto;
@@ -93,6 +108,11 @@ footer{
         margin-right: 0;
         text-align: center;
         margin-top: 5%;
+    }
+    .contenido{
+        button {
+            border: none;
+        }
     }
     .btn{
         width: 250px;
