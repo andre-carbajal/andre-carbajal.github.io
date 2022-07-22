@@ -56,6 +56,9 @@ body{
     border: solid 3px $color;
     @include txtfondo;
 }
+.last{
+    margin: 0 0 10px 0;
+}
 footer{
     background: #0C0C0C;
     text-align: center;
@@ -79,6 +82,9 @@ footer{
         width: 500px;
         height: auto;
     }
+    .last{
+        margin: 0 0 15px 0;
+    }
 }
 @media screen and (max-width: 576px){
     body{
@@ -97,5 +103,8 @@ footer{
     .btn{
         width: 250px;
         height: auto;
+    }
+    .last{
+        margin: 0 0 15px 0;
     }
 }
