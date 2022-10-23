@@ -1,9 +1,11 @@
 {
     "homepage":"https://www.curseforge.com/minecraft/mc-mods/glow-ink-plus",
-    "1.18.2" : {
-       "1.0.2":"Translation adjustments in en_us"
+    "1.19.2" : {
+       "1.0.2":"Port to Forge"
     },
     "promos":{
+     "1.19.2-latest":"1.0.2",
+     "1.19.2-recommended":"1.0.2",
      "1.18.2-latest":"1.0.2",
      "1.18.2-recommended": "1.0.0"
     }
