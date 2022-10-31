@@ -1,10 +1,12 @@
 {
     "homepage":"https://www.curseforge.com/minecraft/mc-mods/simple-mango/files",
-    "1.18.2" : {
-       "1.1.4":"Port to Forge from Fabric, from fabric fix a recipe bug"
+    "1.19.2" : {
+       "1.1.4":"Port to Forge from Fabric"
     },
     "promos":{
-     "1.18.2-latest":"1.1.4",
-     "1.18.2-recommended": "1.1.4"
+      "1.19.2-latest":"1.1.4",
+      "1.19.2-recommended": "1.1.4",
+      "1.18.2-latest":"1.1.4",
+      "1.18.2-recommended": "1.1.4"
     }
  }
