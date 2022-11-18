@@ -1,12 +1,15 @@
 {
     "homepage":"https://www.curseforge.com/minecraft/mc-mods/simple-mango/files",
     "1.19.2" : {
-       "1.1.4":"Port to Forge from Fabric"
+       "1.2.0":"The generation of the tree world has been slightly reduced, With the seeds by right clicking on the ground you can plant a sapling, the leaves now give you seeds, Mango was added to the composter,Traduction to the zh_tw was added, and more"
     },
+    "1.18.2" : {
+      "1.2.0":"The generation of the tree world has been slightly reduced, With the seeds by right clicking on the ground you can plant a sapling, the leaves now give you seeds, Mango was added to the composter,Traduction to the zh_tw was added, and more"
+   },
     "promos":{
-      "1.19.2-latest":"1.1.4",
-      "1.19.2-recommended": "1.1.4",
-      "1.18.2-latest":"1.1.4",
-      "1.18.2-recommended": "1.1.4"
+      "1.19.2-latest":"1.2.0",
+      "1.19.2-recommended": "1.2.0",
+      "1.18.2-latest":"1.2.0",
+      "1.18.2-recommended": "1.2.0"
     }
  }
