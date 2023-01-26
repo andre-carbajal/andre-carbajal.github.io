@@ -3,7 +3,12 @@
     "1.19.2" : {
        "1.0.2":"Base mod"
     },
+    "1.19.3" : {
+       "1.1.1":"Fix item group text not being translated"
+    },
     "promos":{
+     "1.19.3-latest":"1.1.0",
+     "1.19.3-recommended": "1.1.0",
      "1.19.2-latest":"1.1.0",
      "1.19.2-recommended": "1.1.0"
     }
