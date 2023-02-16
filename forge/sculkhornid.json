@@ -1,15 +1,15 @@
 {
     "homepage":"https://www.curseforge.com/minecraft/mc-mods/sculk-horn",
     "1.19.2" : {
-       "1.2.0":"DispalyTest was added, Change mod description, Add credits, ru_ru, uk_ua, fr_fr, zh_cn, zh_tw, ja_jp, de_de, it_it, ko_kr, pt_br was added, Allay was added to exlude from damage, Change range to distance"
+       "1.4.0":"Config file was added and more"
     },
     "1.19.3" : {
-       "1.2.0":"DispalyTest was added, Change mod description, Add credits, ru_ru, uk_ua, fr_fr, zh_cn, zh_tw, ja_jp, de_de, it_it, ko_kr, pt_br was added, Allay was added to exlude from damage, Change range to distance"
+       "1.4.0":"Config file was added and more"
     },
     "promos":{
-     "1.19.3-latest":"1.2.0",
-     "1.19.3-recommended": "1.2.0",
-     "1.19.2-latest":"1.2.0",
-     "1.19.2-recommended": "1.2.0"
+     "1.19.3-latest":"1.4.0",
+     "1.19.3-recommended": "1.4.0",
+     "1.19.2-latest":"1.4.0",
+     "1.19.2-recommended": "1.4.0"
     }
 }
