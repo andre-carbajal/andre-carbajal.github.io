@@ -4,17 +4,17 @@
        "1.2.1":"Fix mods.toml"
     },
     "1.19.2":{
-      "1.2.1.1": "Fix a server error"
+      "1.4.1": "Fix ko_kr.json"
     },
     "1.19.3":{
-      "1.2.1.1" : "Port to 1.19.3"
+      "1.4.4" : "Fix ko_kr.json"
     },
     "promos":{
      "1.18.2-latest":"1.2.1",
      "1.18.2-recommended": "1.2.1",
-     "1.19.2-latest":"1.2.1.1",
-     "1.19.2-recommended": "1.2.1.1",
-     "1.19.3-latest":"1.2.1.1",
-     "1.19.3-recommended": "1.2.1.1"
+     "1.19.2-latest":"1.4.1",
+     "1.19.2-recommended": "1.4.0",
+     "1.19.3-latest":"1.4.1",
+     "1.19.3-recommended": "1.4.0"
     }
  }
