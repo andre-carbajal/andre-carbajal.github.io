@@ -1,15 +1,15 @@
 {
     "homepage":"https://www.curseforge.com/minecraft/mc-mods/sculk-horn",
     "1.19.2" : {
-       "1.4.1":"The push of distance sculk horn was reduced"
+       "1.4.2":"The item is no longer deleted when used and its xp consumption has been corrected."
     },
     "1.19.3" : {
-       "1.4.1":"The push of distance sculk horn was reduced"
+       "1.4.2":"The item is no longer deleted when used and its xp consumption has been corrected."
     },
     "promos":{
-     "1.19.3-latest":"1.4.1",
-     "1.19.3-recommended": "1.4.1",
-     "1.19.2-latest":"1.4.1",
-     "1.19.2-recommended": "1.4.1"
+     "1.19.3-latest":"1.4.2",
+     "1.19.3-recommended": "1.4.2",
+     "1.19.2-latest":"1.4.2",
+     "1.19.2-recommended": "1.4.2"
     }
 }
