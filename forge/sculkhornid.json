@@ -1,20 +1,15 @@
 {
     "homepage":"https://www.curseforge.com/minecraft/mc-mods/sculk-horn",
-    "1.19.2" : {
-       "1.4.2":"The item is no longer deleted when used and its xp consumption has been corrected."
-    },
-    "1.19.3" : {
-       "1.4.2":"The item is no longer deleted when used and its xp consumption has been corrected."
-    },
-    "1.19.4" : {
-       "1.4.2":"Port to 1.19.4"
-    },
     "promos":{
-      "1.19.4-latest":"1.4.2",
-     "1.19.4-recommended": "1.4.2",
-     "1.19.3-latest":"1.4.2",
-     "1.19.3-recommended": "1.4.2",
-     "1.19.2-latest":"1.4.2",
-     "1.19.2-recommended": "1.4.2"
+      "1.20.1-latest":"1.4.3",
+      "1.20.1-recommended" : "1.4.3",
+      "1.20-latest":"1.4.3",
+      "1.20-recommended":"1.4.3",
+      "1.19.4-latest":"1.4.3",
+      "1.19.4-recommended": "1.4.3",
+      "1.19.3-latest":"1.4.3",
+      "1.19.3-recommended": "1.4.3",
+      "1.19.2-latest":"1.4.3",
+      "1.19.2-recommended": "1.4.3"
     }
 }
